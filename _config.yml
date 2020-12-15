@@ -51,8 +51,9 @@ topics:
     web_url: https://www.youtube.com/beginnerscience
     image_url: https://yt3.ggpht.com/ytc/AAUvwniEbKvCACHhvjCkIONPsUCex2GCZ8TYP3PC9HB2=s176-c-k-c0x00ffffff-no-rj
 
-  - name: Web design
-
   - name: My Book
     web_url: https://www.amazon.in/Uprising-Battle-Principles-Abhishek-Karve-ebook/dp/B08FZLNLK3/ref=sr_1_2?dchild=1&keywords=An+Uprising&qid=1608032182&refinements=p_36%3A12124269031&rnid=12124266031&s=digital-text&sr=1-2
     image_url: https://m.media-amazon.com/images/I/41dzExOBfKL._SY346_.jpg
+  - name: My Resume
+    web_url: https://drive.google.com/file/d/1jClo085n_DPfXWrQS5OirCMtnomdusFB/view?usp=sharing
+    image_url: http://clipart-library.com/newhp/11-110547_lines-clipart-resume-icon.png
