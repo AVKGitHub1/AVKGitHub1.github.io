@@ -53,6 +53,6 @@ topics:
 
   - name: Web design
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: My Book
+    web_url: https://www.amazon.in/Uprising-Battle-Principles-Abhishek-Karve-ebook/dp/B08FZLNLK3/ref=sr_1_2?dchild=1&keywords=An+Uprising&qid=1608032182&refinements=p_36%3A12124269031&rnid=12124266031&s=digital-text&sr=1-2
+    image_url: https://m.media-amazon.com/images/I/41dzExOBfKL._SY346_.jpg
